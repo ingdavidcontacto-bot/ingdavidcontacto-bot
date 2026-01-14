@@ -9,7 +9,7 @@ Soy un estudiante de Ingenieria Multinedia enfocado en crear soluciones eficient
 
 ## Tecnologías y Herramientas:
 - JavaScript, C#, Java.
-- React, Node.js, Angular, Spring Bot.
+- React, Node.js, Angular, Spring Boot.
 - Docker, AWS, Git.
 
 ## Estadísticas de GitHub:
