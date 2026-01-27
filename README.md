@@ -1,4 +1,4 @@
-## ¡Hola! Soy David Gracia 
+## ¡Hola! Soy David Garcia 
 
 Soy un estudiante de Ingenieria Multinedia enfocado en crear soluciones eficientes y escalables.
 
